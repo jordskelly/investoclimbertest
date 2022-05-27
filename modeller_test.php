@@ -1,4 +1,5 @@
 <?php
+//Created in conjuction with reza
 //long term modeller call
 
 $url = "https://4uv2sp6uzb.execute-api.ap-southeast-2.amazonaws.com/prod/predictions/long?number_of_companies=20";
